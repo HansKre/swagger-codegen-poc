@@ -12,6 +12,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "url": "^0.11.0",
     "vue": "^3.2.47"
   },
   "devDependencies": {

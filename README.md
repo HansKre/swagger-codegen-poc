@@ -25,4 +25,12 @@ swagger-codegen generate -i https://petstore.swagger.io/v2/swagger.json \
 
 ```sh
 npm init vue@latest
+# cd into project
+# copy client into project
+# install deps
+npm install
+# install isomorphic-fetch url
+npm i isomorphic-fetch url
+npm run format
+npm run dev
 ```
